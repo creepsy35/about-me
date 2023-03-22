@@ -49,7 +49,7 @@ li i {
   transform: scale(1.1)
 }
 li i:hover {
-  color: skyblue;
+  color: #0E8388;
   transform: scale(1.5)
 }
 
@@ -66,10 +66,10 @@ li i:hover {
     justify-content: center;
     padding: 25px 15px;
     background-color: hsla(0, 0%, 100%, .7);
-    height: 60%;
-    width: 60%;
+    height: 70vh;
+    width: 60vw;
     border-radius: 15px;
     box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
-    font-size: 2.1vw;
+    font-size: 18px;
   }
 }
