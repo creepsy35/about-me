@@ -10,6 +10,7 @@ body {
   background-position: right;
   background-size: cover;
   height: 100vh;
+  font-size: 0.9rem;
 }
 .me {
   background-color: hsla(0, 0%, 100%, .7);
@@ -70,6 +71,5 @@ li i:hover {
     width: 60vw;
     border-radius: 15px;
     box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
-    font-size: 18px;
   }
 }
