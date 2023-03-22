@@ -66,10 +66,10 @@ li i:hover {
     justify-content: center;
     padding: 25px 15px;
     background-color: hsla(0, 0%, 100%, .7);
-    height: 70vh;
-    width: 70%;
+    height: 60vw;
+    width: 60vw;
     border-radius: 15px;
     box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 80px;
-    font-size: 2svw;
+    font-size: 2vw;
   }
 }
