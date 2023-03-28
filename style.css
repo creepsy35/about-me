@@ -56,17 +56,17 @@ li i:hover {
 
 @media (max-width: 768px) {
   body {
-    display: grid;
+    display: flex;
     justify-content: center;
     height: 100vh;
     font-size: 2vw;
   }
   .me {
-    display: grid;
-    justify-self: center;
-    margin: 70px auto;
+    display: block;
+    justify-content: center;
+    margin: auto;
+    height: auto;
     padding: 15px;
-    height: 70vh;
     border-radius: 20px;
   }
 }
