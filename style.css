@@ -16,9 +16,10 @@ body {
   background-color: hsla(0, 0%, 100%, .7);
   display: flex;
   float: right;
+  align-items: center;
+  padding: 0 20px;
   width: 40%;
   height: 100%;
-  padding: 155px 35px;
 }
 .me h1, h3 {
   text-align: center;
