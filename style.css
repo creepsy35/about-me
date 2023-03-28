@@ -60,8 +60,8 @@ li i:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 20px;
     height: 100vh;
+    background-position: center;
   }
   .me {
     display: flex;
