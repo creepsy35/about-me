@@ -65,8 +65,8 @@ li i:hover {
     display: block;
     justify-content: center;
     margin: auto;
-    height: auto;
-    width: 50vw;
+    height: 70vw;
+    width: 70vw;
     padding: 20px 15px;
     padding-bottom: 0px;
     border-radius: 20px;
